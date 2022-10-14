@@ -1,5 +1,5 @@
 # LETR
-This is the PyTorch implementation of our paper LETR: An End-to-End Detector of Reconstruction Area in Blade's Adaptive Machining with Transformer.
+This is the PyTorch implementation of our paper LETR: An End-to-End Detector of Reconstruction Area in Blade's Adaptive Machining with Transformer(https://www.hindawi.com/journals/js/2022/3005684/).
 
 # Environment
 Python 3.7+
