@@ -10,3 +10,6 @@ Scipy 1.6.1+
 
 ## Acknowledgement
 This work was fully supported by Northwestern Polytechnical University.
+
+##Citation
+If you find this code useful, please [cite](https://scholar.googleusercontent.com/scholar.bib?q=info:vffJaVeF5mIJ:scholar.google.com/&output=citation&scisdr=CgWVka1fEJSSotEXm_Y:AAGBfm0AAAAAY0kRg_ZOYYVllIywG2KgsPJyWfBp2V6k&scisig=AAGBfm0AAAAAY0kRg70hZWBvPFcVlWO9BV6IFpyuwhfy&scisf=4&ct=citation&cd=-1&hl=zh-CN) our paper.
