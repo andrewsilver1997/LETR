@@ -1,5 +1,5 @@
 # LETR
-This is the PyTorch implementation of our paper [*LETR: An End-to-End Detector of Reconstruction Area in Blade’s Adaptive Machining with Transformer*](https://www.hindawi.com/journals/js/2022/3005684/). If you find our paper useful, please [cite](https://scholar.googleusercontent.com/scholar.bib?q=info:vffJaVeF5mIJ:scholar.google.com/&output=citation&scisdr=CgWVka1fEOGfwNNjTF0:AAGBfm0AAAAAY0llVF2WcXL0XVqGIE-gDi6tfbJUPmCv&scisig=AAGBfm0AAAAAY0llVCQ6-P4wATISSY9dWEA2yblm_CV7&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1) it.
+This is the PyTorch implementation of our paper [*LETR: An End-to-End Detector of Reconstruction Area in Blade’s Adaptive Machining with Transformer*](https://www.hindawi.com/journals/js/2022/3005684/).
 
 ## Enviroment
 Python 3.7+
@@ -10,6 +10,20 @@ Scipy 1.6.1+
 
 ## Dataset
 Here is the link of the [LDEG2021](https://github.com/andrewsilver1997/LDEG2021) dataset of this work.
+
+## Citation
+If you find our work useful, please cite it.
+
+```
+@article{yin2022letr,
+  title={LETR: An End-to-End Detector of Reconstruction Area in Blades Adaptive Machining with Transformer},
+  author={Yin, Zikai and Liang, Yongshou and Ren, Junxue and An, Jungang and He, Famei},
+  journal={Journal of Sensors},
+  volume={2022},
+  publisher={Hindawi}
+}
+```
+
 
 ## Acknowledgement
 The authors want to thank the support of Northwestern Polytechnical University.
