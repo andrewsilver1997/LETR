@@ -12,4 +12,4 @@ Scipy 1.6.1+
 Here is the link of the [LDEG2021](https://github.com/andrewsilver1997/LDEG2021) dataset of this work.
 
 ## Acknowledgement
-The author want to thank the support of Northwestern Polytechnical University.
+The authors want to thank the support of Northwestern Polytechnical University.
